@@ -1,3 +1,18 @@
+/************************************************************************************************************************************
+
+EN:
+
+This repository is a site for running an automated ETH draw on the SEPOLIA network as part of my fullstack Solidity && JS training from the FCC.
+Participants connect a wallet, join the draw (by making a deposit) and after some time a winner is chosen at random (real random) and automatically receives all ETH from the draw pool.
+
+RU:
+Данный репозиторий представляет собой сайт для проведения автоматического розыгрыша ETH в сети SEPOLIA в рамках моего обучения по фуллстэку Solidity && JS от FCC.
+Участники подключают кошелек, присоединяются к розыгрышу (внося депозит) а по истечении некоторого времени в рандомном режиме (реально рандом) выбирается победитель и в автоматическом режиме он получает весь ETH из пула розыгрыша.
+
+
+************************************************************************************************************************************/
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
